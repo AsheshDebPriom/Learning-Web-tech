@@ -1,0 +1,27 @@
+<mobile_companys>
+
+	<mobile_company>
+		<id>11</id>
+		<name>Samsung</name>
+		<unit price>35000</unit price>
+		<stock>50</stock>
+		<status>1</status>
+	</mobile_company>
+
+	<mobile_company>
+		<id>20</id>
+		<name>HTS</name>
+		<unit price>65300</unit price>
+		<stock>35</stock>
+		<status>0</status>
+	</mobile_company>
+
+	<mobile_company>
+		<id>23</id>
+		<name>Nokia</name>
+		<unit price>25100</unit price>
+		<stock>100</stock>
+		<status>1</status>
+	</mobile_company>
+
+</mobile_companys>
